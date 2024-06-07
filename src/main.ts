@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
-import './style.css'
 import App from './App.vue'
+import 'uno.css'
+import './style.css'
 import { DefaultApolloClient } from '@vue/apollo-composable'
 import { ApolloClient, createHttpLink, InMemoryCache } from '@apollo/client/core'
 

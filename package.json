@@ -21,6 +21,7 @@
     "vue-family-tree": "^0.1.8"
   },
   "devDependencies": {
+    "@unocss/reset": "^0.60.4",
     "@vitejs/plugin-vue": "^5.0.4",
     "sass": "^1.76.0",
     "typescript": "^5.4.5",
